@@ -1,13 +1,8 @@
-# Book Store
+
 
 ## Introduction
 This is a simple and elegant landing page for a real estate project, built using HTML and CSS. The page is designed to showcase real estate properties and attract potential clients with a clean and modern design.
 
-## Youtube Video
-
-Link: https://youtu.be/9srnyNC1e_o
-
-![alt text](./img/readme/youtube-thumbnail.png)
 
 ## Features
 * Clean Layout: A well-structured layout with sections for property listings, company information, and contact details.
