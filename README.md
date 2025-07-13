@@ -24,3 +24,5 @@ This is a simple and elegant landing page for a real estate project, built using
 ![alt text](./img/readme/testimonial.png)
 ### **5. Contact Section**:
 ![alt text](./img/readme/contact.png)
+
+##Deployed page- https://peppy-froyo-aba5e6.netlify.app/
